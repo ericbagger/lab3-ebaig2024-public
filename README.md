@@ -19,6 +19,4 @@ The following required features are implemented:
 [x] Users are able to to take a photo and upload it to my Parse Server
 [x] Users are not able to see other users’ photos until they upload their own.
 
-TODO// Update README with new lab 6 gif
-
 ![instaparse_walkthrough_1_xtra_small](lab3.gif)
