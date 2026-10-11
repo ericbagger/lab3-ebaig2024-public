@@ -9,7 +9,7 @@ I went about developing the app by strictly adhering to the instructions on code
 - Finally I got to Step 4 which was to make it so that the feed would only show posts shared within 24 hours of the current users last post and otherwise blur out the post images. To do this I added the new blur method inside of PostCell and finished by testing the functionality of the app.
 ## Features
  The following required features are implemented:
-[x] Users are able to to take a photo and upload it to my Parse Server
+[x] Users are able to to take a photo and upload it to my Parse Server.
 [x] Users are not able to see other users’ photos until they upload their own.
 
-![instaparse_walkthrough_1_xtra_small](lab3.gif)
+![instaparse_walkthrough_1_xtra_small](lab3.gif).
