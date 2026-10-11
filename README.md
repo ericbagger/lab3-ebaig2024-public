@@ -3,7 +3,6 @@
 Submitted by Eric Baig Z23771751
 
 ## Description
-
 I went about developing the app by strictly adhering to the instructions on codepath:
 
 - First I set up my project by downloading the Instaparse Pt 2 - Starter Project from codepath. I made sure to add my Back4App Parse server keys in the AppDelegate and also to connect the project to my github.
@@ -13,9 +12,7 @@ I went about developing the app by strictly adhering to the instructions on code
 - Finally I got to Step 4 which was to make it so that the feed would only show posts shared within 24 hours of the current users last post and otherwise blur out the post images. To do this I added the new blur method inside of PostCell and finished by testing the functionality of the app.
 
 ## Features
- 
-The following required features are implemented:
- 
+ The following required features are implemented:
 [x] Users are able to to take a photo and upload it to my Parse Server
 [x] Users are not able to see other users’ photos until they upload their own.
 
